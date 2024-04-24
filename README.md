@@ -9,3 +9,7 @@
 #
 # 브루트포스 알고리즘
 + [블랙잭](https://itknowledgewarehouse.tistory.com/237)
+
+#
+# 구간 합 알고리즘
++ [구간 합 구하기4](https://itknowledgewarehouse.tistory.com/263)

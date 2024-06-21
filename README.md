@@ -12,4 +12,10 @@
 
 #
 # 구간 합 알고리즘
-+ [구간 합 구하기4](https://itknowledgewarehouse.tistory.com/263)
++ [구간 합 구하기 4](https://itknowledgewarehouse.tistory.com/263)
+
+#
+# 투 포인터
++ [수들의 합 5](https://itknowledgewarehouse.tistory.com/270)
+
+#

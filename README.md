@@ -21,5 +21,6 @@
 #
 # 재귀
 + [재귀의 귀재](https://itknowledgewarehouse.tistory.com/272)
++ [팩토리얼 2](https://itknowledgewarehouse.tistory.com/275)
 
 #

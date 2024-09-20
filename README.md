@@ -24,3 +24,7 @@
 + [팩토리얼 2](https://itknowledgewarehouse.tistory.com/275)
 + [피보나치 수 5](https://itknowledgewarehouse.tistory.com/276)
 #
+
+# 슬라이딩 윈도우
++ [DNA 비밀번호](https://itknowledgewarehouse.tistory.com/280)
+#

@@ -29,3 +29,7 @@
 + [DNA 비밀번호](https://itknowledgewarehouse.tistory.com/280)
 + [최솟값 찾기](https://itknowledgewarehouse.tistory.com/295)
 #
+
+# 스택
++ [스택 수열](https://itknowledgewarehouse.tistory.com/296)
+#

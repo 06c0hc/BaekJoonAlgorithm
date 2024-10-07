@@ -32,4 +32,5 @@
 
 # 스택
 + [스택 수열](https://itknowledgewarehouse.tistory.com/296)
++ [오큰수](https://itknowledgewarehouse.tistory.com/297)
 #

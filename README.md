@@ -34,3 +34,7 @@
 + [스택 수열](https://itknowledgewarehouse.tistory.com/296)
 + [오큰수](https://itknowledgewarehouse.tistory.com/297)
 #
+
+# 큐
++ [카드2](https://itknowledgewarehouse.tistory.com/299)
+#

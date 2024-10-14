@@ -37,4 +37,5 @@
 
 # 큐
 + [카드2](https://itknowledgewarehouse.tistory.com/299)
++ [절댓값 힙](https://itknowledgewarehouse.tistory.com/300)
 #

@@ -39,3 +39,6 @@
 + [카드2](https://itknowledgewarehouse.tistory.com/299)
 + [절댓값 힙](https://itknowledgewarehouse.tistory.com/300)
 #
+
+# 너비/깊이 우선 탐색
++ [연결 요소의 개수](https://itknowledgewarehouse.tistory.com/304)
